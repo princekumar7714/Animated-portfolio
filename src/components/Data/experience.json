@@ -1,0 +1,23 @@
+
+[
+  {
+    "id": 1,
+    "role": "MERN Stack Developer (Fresher)",
+    "organisation": "Training Basket",
+    "startDate": "July, 2025",
+    "endDate": "Present",
+    "location": "India",
+    "experiences": [
+      "Completed comprehensive MERN Stack development training (MongoDB, Express.js, React.js, Node.js)",
+      "Built multiple full-stack projects including authentication systems, CRUD applications, and REST APIs",
+      "Worked on responsive UI development using React, Tailwind CSS, and Bootstrap",
+      "Implemented backend logic using Node.js and Express with MongoDB database integration",
+      "Used Git and GitHub for version control and collaborative project management"
+    ],
+    "education": {
+      "degree": "Bachelor of Computer Applications (BCA)",
+      "status": "Completed"
+    },
+    "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAS4jjwGIK1JH_1DapYbqxmbP1T3J3DoLqWw&s"
+  }
+]
