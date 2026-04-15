@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/prince_kumar updated resume.pdf";
-import hero from './Data/hero.json' 
+import pdf from "../pdf/Prince_Kumar_MERN_Resume.pdf";
+import hero from '../icons/prince_profile.jpg'; 
 import Typed from "typed.js"
 
 function Home() {
@@ -11,7 +11,8 @@ function Home() {
       strings: [
         "Welcome to my profile",
         "My Name is Prince Kumar",
-        "I'm a Full Stack Developer"
+        "Aspiring MERN Stack Developer",
+        "Building responsive web solutions"
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -47,7 +48,7 @@ function Home() {
       data-aos-duration="1000"
         >
           <div className="image">
-            <img src={`/assests/${hero.imgSrc} `} alt="hero"  />
+            <img src={hero} alt="hero" />
           </div>
         </div>
       </div>

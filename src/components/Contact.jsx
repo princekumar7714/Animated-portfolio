@@ -21,7 +21,7 @@ function Contact() {
             <CiFacebook className="icons" />
           </a>
           <a
-            href="www.linkedin.com/in/prince-kumar-23a350301"
+            href="https://www.linkedin.com/in/prince-kumar-23a350301"
             target="_blank"
             className="items"
           >
@@ -30,7 +30,7 @@ function Contact() {
           {/* <div className="items">
             <FaXTwitter className="icons" />
           </div> */}
-          <a href="https://www.github.com" target="_blank" className="items">
+          <a href="https://github.com/princeKumar7714" target="_blank" className="items">
             <FaGithub className="icons" />
           </a>
           <a

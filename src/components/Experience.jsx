@@ -19,6 +19,7 @@ function Experience() {
                 </div>
                 <div className="right">
                   <h2>{data.role}</h2>
+                  <h3 style={{ color: "orange" }}>{data.organisation}</h3>
                   <h4>
                     {" "}
                     <span style={{ color: "yellowgreen" }}>

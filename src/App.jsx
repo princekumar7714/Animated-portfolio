@@ -5,6 +5,7 @@ import Experience from "./components/Experience";
 import Skills from "./components/Skills";
 // import Projects from './components/Data/projects.json'
 import Projects from "./components/Projects";
+import Education from "./components/Education";
 import Contact from "./components/Contact";
 import Aos from "aos";
 import "aos/dist/aos.css";
@@ -22,6 +23,7 @@ function App() {
         <Experience />
         <Skills />
         <Projects />
+        <Education />
         <Contact />
       </div>
     </>
